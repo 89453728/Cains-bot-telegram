@@ -1,0 +1,22 @@
+COMMAND LIST
+
+dep - depositar blanchus en el banco: /dep cantidad
+ret - retirar blanchus del banco: /ret cantidad
+b - ver tus blanchus o los de alguien
+dar - donar blanchus a alguien: /dar @usuario
+robar - intentar un robo a alguien: /robar @usuario
+
+DESCRIPTION
+** BLANCHU BOT **
+
+Hola, soy Blanchu, un gestor de moneda para darle vidilla 
+a tu canal de telegram.
+
+Para que sirvo?
+- Sirvo como banco de cada uno de los usuarios del canal
+- En futuras actualizaciones veras una tienda en la que 
+gastar tus blanchus
+- Soy muy capitalista pero tambien me gusta el rol asi que
+decidi incluir un sistema de robos para que sea mas diver
+
+Para mas informacion /help
